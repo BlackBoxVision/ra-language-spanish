@@ -1,0 +1,24 @@
+{
+  "name": "aor-language-spanish",
+  "version": "1.0.0",
+  "description": "Spanish translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackboxvision/aor-language-spanish.git"
+  },
+  "keywords": [
+    "react",
+    "admin-on-rest",
+    "translation"
+  ],
+  "author": "BlackBox Vision",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackboxvision/aor-language-spanish/issues"
+  },
+  "homepage": "https://github.com/blackboxvision/aor-language-spanish#readme"
+}
