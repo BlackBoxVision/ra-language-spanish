@@ -5,6 +5,7 @@ module.exports = {
             show: 'Mostrar',
             list: 'Listar',
             save: 'Guardar',
+            cancel: 'Cancelar',
             create: 'Crear',
             edit: 'Editar',
             cancel: 'Cancelar',
