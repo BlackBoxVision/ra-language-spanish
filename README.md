@@ -4,13 +4,13 @@ Spanish translations for [admin-on-rest](https://github.com/marmelab/admin-on-re
 
 ## Installation
 
-####NPM
+#### NPM
 
 ```sh
 npm install --save aor-language-spanish
 ```
 
-####YARN
+#### YARN
 
 ```sh
 yarn add aor-language-spanish
@@ -29,10 +29,10 @@ const messages = {
 
 //if you have more translations 
 const messages = {
-	'es': {
-		...spanishMessages,
-		myMessages
-	}
+    'es': {
+	...spanishMessages,
+	myMessages
+    }
 }
 
 <Admin locale="es" messages={messages}>
