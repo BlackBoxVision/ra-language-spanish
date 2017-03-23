@@ -8,7 +8,6 @@ module.exports = {
             cancel: 'Cancelar',
             create: 'Crear',
             edit: 'Editar',
-            cancel: 'Cancelar',
             refresh: 'Actualizar',
             add_filter: 'Añadir filtro',
             remove_filter: 'Eliminar filtro',
