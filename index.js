@@ -36,6 +36,7 @@ module.exports = {
             about: 'Acerca de',
         },
         navigation: {
+            no_results: 'No se encontraron resultados',
             page_out_of_boundaries: 'La página %{page} esta fuera del limite',
             page_out_from_end: 'No se puede ir después de la última página',
             page_out_from_begin: 'No se puede ir antes de la página 1',
