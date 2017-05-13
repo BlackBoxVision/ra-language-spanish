@@ -13,7 +13,7 @@ module.exports = {
             remove_filter: 'Eliminar filtro',
         },
         boolean: {
-            true: 'Si',
+            true: 'Sí',
             false: 'No',
         },
         page: {
@@ -22,22 +22,23 @@ module.exports = {
             show: '%{name} #%{id}',
             create: 'Crear %{name}',
             delete: 'Eliminar %{name} #%{id}',
+            dashboard: 'Panel de control'
         },
         input: {
             image: {
-                upload_several: 'Suelte algunos archivos para cargar, o haga clic para seleccionar uno.',
+                upload_several: 'Suelte algunos archivos para cargar o haga clic para seleccionar uno.',
                 upload_single: 'Suelte un archivo para cargarlo o haga clic para seleccionarlo.',
             },
         },
         message: {
-            yes: 'Si',
+            yes: 'Sí',
             no: 'No',
-            are_you_sure: 'Estás seguro?',
+            are_you_sure: '¿Estás seguro?',
             about: 'Acerca de',
         },
         navigation: {
             no_results: 'No se encontraron resultados',
-            page_out_of_boundaries: 'La página %{page} esta fuera del limite',
+            page_out_of_boundaries: 'La página %{page} está fuera del limite',
             page_out_from_end: 'No se puede ir después de la última página',
             page_out_from_begin: 'No se puede ir antes de la página 1',
             page_range_info: '%{offsetBegin}-%{offsetEnd} de %{total}',
