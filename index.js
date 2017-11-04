@@ -48,7 +48,7 @@ module.exports = {
         auth: {
             username: 'Usuario',
             password: 'Contraseña',
-            sign_in: 'Ingresar',
+            sign_in: 'Acceder',
             sign_in_error: 'Se ha producido un error en la autenticación.',
             logout: 'Cerrar sesión',
         },
