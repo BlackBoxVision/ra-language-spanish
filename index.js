@@ -11,6 +11,7 @@ module.exports = {
             refresh: 'Actualizar',
             add_filter: 'Añadir filtro',
             remove_filter: 'Eliminar filtro',
+            back: 'Atrás',
         },
         boolean: {
             true: 'Sí',
