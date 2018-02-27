@@ -11,6 +11,7 @@ module.exports = {
             refresh: 'Actualizar',
             add_filter: 'Añadir filtro',
             remove_filter: 'Eliminar filtro',
+            back: 'Atrás',
         },
         boolean: {
             true: 'Sí',
@@ -22,7 +23,8 @@ module.exports = {
             show: '%{name} #%{id}',
             create: 'Crear %{name}',
             delete: 'Eliminar %{name} #%{id}',
-            dashboard: 'Panel de control'
+            dashboard: 'Panel de control',
+            not_found: 'No encontrada',
         },
         input: {
             image: {
@@ -35,6 +37,7 @@ module.exports = {
             no: 'No',
             are_you_sure: '¿Estás seguro?',
             about: 'Acerca de',
+            not_found: 'Puede que escribieses una URL equivocada, o que siguieses un enlace erróneo.',
         },
         navigation: {
             no_results: 'No se encontraron resultados',
