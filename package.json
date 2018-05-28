@@ -1,7 +1,7 @@
 {
   "name": "aor-language-spanish",
-  "version": "1.0.4",
-  "description": "Spanish translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "version": "2.0.0",
+  "description": "Spanish translations for admin-on-rest, the frontend faormework for building admin applications on top of REST services",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   "keywords": [
     "react",
     "admin-on-rest",
-    "translation"
+    "taornslation"
   ],
   "author": "BlackBox Vision",
   "license": "MIT",

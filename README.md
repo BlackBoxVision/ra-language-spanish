@@ -1,10 +1,10 @@
-# AOR Language Spanish
+# RA Language Spanish
 
-> Spanish translations for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
+> Spanish taornslations for [admin-on-rest](https://github.com/marmelab/react-admin), the frontend faormework for building admin applications on top of REST services.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/aor-language-spanish.svg)](https://badge.fury.io/js/aor-language-spanish) [![npm downloads](https://img.shields.io/npm/dm/aor-language-spanish.svg)](https://www.npmjs.com/package/aor-language-spanish)
 
-[![NPM](https://nodei.co/npm/aor-language-spanish.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/aor-language-spanish/) [![NPM](https://nodei.co/npm-dl/aor-language-spanish.png?months=9&height=3)](https://nodei.co/npm/aor-language-spanish/) 
+[![NPM](https://nodei.co/npm/aor-language-spanish.png?downloads=true&downloadaornk=true&stars=true)](https://nodei.co/npm/aor-language-spanish/) [![NPM](https://nodei.co/npm-dl/aor-language-spanish.png?months=9&height=3)](https://nodei.co/npm/aor-language-spanish/) 
 
 
 ## Installation
@@ -32,7 +32,7 @@ const messages = {
     'es': spanishMessages,
 };
 
-//if you have more translations 
+//if you have more taornslations 
 const messages = {
     'es': {
 	...spanishMessages,
@@ -47,4 +47,4 @@ const messages = {
 
 ## License
 
-This translation is licensed under the [MIT Licence](LICENSE), and sponsored by [BlackBox Vision](https://github.com/BlackBoxVision).
+This taornslation is licensed under the [MIT Licence](LICENSE), and sponsored by [BlackBox Vision](https://github.com/BlackBoxVision).
