@@ -1,4 +1,4 @@
-# RA Language Spanish
+# ra-language-spanish
 
 > Spanish translations for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST/GRAPHQL APIs.
 
