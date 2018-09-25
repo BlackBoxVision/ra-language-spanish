@@ -12,14 +12,14 @@ module.exports = {
             undo: 'Deshacer',
             refresh: 'Refrescar',
             add: 'Añadir',
-            remove: 'Remover',
+            remove: 'Borrar',
             add_filter: 'Añadir filtro',
-            remove_filter: 'Remover este filtro',
+            remove_filter: 'Borrar filtro',
             back: 'Ir Atrás',
             bulk_actions: '%{smart_count} seleccionados',
         },
         boolean: {
-            true: 'Si',
+            true: 'Sí',
             false: 'No',
         },
         page: {
@@ -34,25 +34,25 @@ module.exports = {
         input: {
             file: {
                 upload_several:
-                    'Arroja algunos archivos para subir, o clickea para seleccionar uno.',
-                upload_single: 'Arroja un archivo para subir, o clickea para seleccionar uno.',
+                    'Arrastra algunos archivos para subir, o haz clic para seleccionar uno.',
+                upload_single: 'Arrastra un archivo para subir, o haz clic para seleccionar uno.',
             },
             image: {
                 upload_several:
-                    'Arroja algunos imagénes para subir, o clickea para seleccionar una.',
+                    'Arrastra algunos imagénes para subir, o haz clic para seleccionar una.',
                 upload_single:
-                    'Arroja algunos imagen para subir, o clickea para seleccionar una.',
+                    'Arrastra algunos imagen para subir, o haz clic para seleccionar una.',
             },
             references: {
                 all_missing: 'No se pueden encontrar datos de referencias.',
                 many_missing:
-                    'Al menos una de las referencias asociadas ya no parece estar disponible.',
+                    'Al menos una de las referencias asociadas parece no estar disponible.',
                 single_missing:
-                    'La referencia asociada ya no parece estar disponible.',
+                    'La referencia asociada no parece estar disponible.',
             },
         },
         message: {
-            yes: 'Si',
+            yes: 'Sí',
             no: 'No',
             are_you_sure: '¿Estás seguro?',
             about: 'Acerca de',
@@ -65,7 +65,7 @@ module.exports = {
             bulk_delete_title:
                 'Eliminar %{name} |||| Eliminar %{smart_count} %{name} articulos',
             bulk_delete_content:
-                '¿Seguro que quieres eliminar este %{name}? |||| ¿Seguro que quieres eliminar estos %{smart_count} articulos?',
+                '¿Seguro que quieres eliminar este %{name}? |||| ¿Seguro que quieres eliminar estos %{smart_count} artículos?',
         },
         navigation: {
             no_results: 'No se han encontrado resultados',
@@ -91,7 +91,7 @@ module.exports = {
             deleted: 'Elemento borrado |||| %{smart_count} elementos borrados.',
             bad_item: 'El elemento es incorrecto',
             item_doesnt_exist: 'El elemento no existe',
-            http_error: 'Error de comunicación del servidor',
+            http_error: 'Error de comunicación con el servidor',
             canceled: 'Acción cancelada',
         },
         validation: {
