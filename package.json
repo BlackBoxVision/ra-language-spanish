@@ -1,6 +1,6 @@
 {
   "name": "aor-language-spanish",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Spanish translations for admin-on-rest, the frontend faormework for building admin applications on top of REST services",
   "main": "index.js",
   "scripts": {
