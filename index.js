@@ -15,7 +15,7 @@ module.exports = {
             remove: 'Borrar',
             add_filter: 'Añadir filtro',
             remove_filter: 'Borrar filtro',
-            back: 'Ir Atrás',
+            back: 'Ir atrás',
             bulk_actions: '%{smart_count} seleccionados',
         },
         boolean: {
@@ -34,14 +34,14 @@ module.exports = {
         input: {
             file: {
                 upload_several:
-                    'Arrastra algunos archivos para subir, o haz clic para seleccionar uno.',
-                upload_single: 'Arrastra un archivo para subir, o haz clic para seleccionar uno.',
+                    'Arrastra algunos archivos para subir o haz clic para seleccionarlos.',
+                upload_single: 'Arrastra un archivo para subir o haz clic para seleccionarlo.',
             },
             image: {
                 upload_several:
-                    'Arrastra algunos imagénes para subir, o haz clic para seleccionar una.',
+                    'Arrastra algunas imagénes para subir o haz clic para seleccionarlas.',
                 upload_single:
-                    'Arrastra algunos imagen para subir, o haz clic para seleccionar una.',
+                    'Arrastra alguna imagen para subir o haz clic para seleccionarla.',
             },
             references: {
                 all_missing: 'No se pueden encontrar datos de referencias.',
