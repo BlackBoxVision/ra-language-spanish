@@ -100,7 +100,7 @@ module.exports = {
             maxLength: 'Debe contener %{max} caracteres o menos',
             minValue: 'Debe ser al menos %{min}',
             maxValue: 'Debe ser %{max} o menos',
-            number: 'Debe que ser un número',
+            number: 'Debe ser un número',
             email: 'Debe ser un correo electrónico válido',
             oneOf: 'Debe ser uno de: %{options}',
             regex: 'Debe coincidir con un formato específico (regexp): %{pattern}',
