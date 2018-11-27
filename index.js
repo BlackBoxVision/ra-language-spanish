@@ -34,14 +34,14 @@ module.exports = {
         input: {
             file: {
                 upload_several:
-                    'Arrastra algunos archivos para subir o haz clic para seleccionarlos.',
-                upload_single: 'Arrastra un archivo para subir o haz clic para seleccionarlo.',
+                    'Arrastre algunos archivos para subir o haga clic para seleccionarlos.',
+                upload_single: 'Arrastre un archivo para subir o haga clic para seleccionarlo.',
             },
             image: {
                 upload_several:
-                    'Arrastra algunas imagénes para subir o haz clic para seleccionarlas.',
+                    'Arrastre algunas imagénes para subir o haga clic para seleccionarlas.',
                 upload_single:
-                    'Arrastra alguna imagen para subir o haz clic para seleccionarla.',
+                    'Arrastre alguna imagen para subir o haga clic para seleccionarla.',
             },
             references: {
                 all_missing: 'No se pueden encontrar datos de referencias.',
@@ -54,23 +54,23 @@ module.exports = {
         message: {
             yes: 'Sí',
             no: 'No',
-            are_you_sure: '¿Estás seguro?',
+            are_you_sure: '¿Está seguro?',
             about: 'Acerca de',
             not_found:
                 'O bien escribió una URL incorrecta o siguió un enlace incorrecto.',
             loading: 'La página se está cargando, espere un momento por favor',
             invalid_form: 'El formulario no es válido. Por favor verifique si hay errores',
             delete_title: 'Eliminar %{name} #%{id}',
-            delete_content: '¿Seguro que quieres eliminar este artículo?',
+            delete_content: '¿Seguro que quiere eliminar este artículo?',
             bulk_delete_title:
                 'Eliminar %{name} |||| Eliminar %{smart_count} %{name} articulos',
             bulk_delete_content:
-                '¿Seguro que quieres eliminar este %{name}? |||| ¿Seguro que quieres eliminar estos %{smart_count} artículos?',
+                '¿Seguro que quiere eliminar este %{name}? |||| ¿Seguro que quiere eliminar estos %{smart_count} artículos?',
         },
         navigation: {
             no_results: 'No se han encontrado resultados',
             no_more_results:
-                'El número de página %{page} está fuera de los límites. Prueba la página anterior.',
+                'El número de página %{page} está fuera de los límites. Pruebe la página anterior.',
             page_out_of_boundaries: 'Número de página %{page} fuera de los límites',
             page_out_from_end: 'No puede ir después de la última página',
             page_out_from_begin: 'No puede ir antes de la página 1',
