@@ -81,7 +81,7 @@ module.exports = {
         auth: {
             username: 'Usuario',
             password: 'Contraseña',
-            sign_in: 'Registrarse',
+            sign_in: 'Acceder',
             sign_in_error: 'La autenticación falló, por favor, vuelva a intentarlo',
             logout: 'Cerrar Sesión',
         },
