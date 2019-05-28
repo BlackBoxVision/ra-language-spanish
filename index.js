@@ -74,6 +74,7 @@ module.exports = {
             page_out_of_boundaries: 'Número de página %{page} fuera de los límites',
             page_out_from_end: 'No puede ir después de la última página',
             page_out_from_begin: 'No puede ir antes de la página 1',
+            page_rows_per_page: 'Filas por página',
             page_range_info: '%{offsetBegin}-%{offsetEnd} de %{total}',
             next: 'Siguiente',
             prev: 'Anterior',
