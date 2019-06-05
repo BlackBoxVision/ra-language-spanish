@@ -1,5 +1,5 @@
 # RA Language Spanish
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 > Spanish translations for [react-admin](https://github.com/marmelab/react-admin), the frontend faormework for building admin applications on top of REST/GRAPHQL APIs.
 
@@ -59,7 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://github.com/omarcespedes"><img src="https://avatars2.githubusercontent.com/u/4432720?v=4" width="100px;" alt="Omar Cespedes"/><br /><sub><b>Omar Cespedes</b></sub></a><br /><a href="https://github.com/BlackBoxVision/ra-language-spanish/commits?author=omarcespedes" title="Code">💻</a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/omarcespedes"><img src="https://avatars2.githubusercontent.com/u/4432720?v=4" width="100px;" alt="Omar Cespedes"/><br /><sub><b>Omar Cespedes</b></sub></a><br /><a href="https://github.com/BlackBoxVision/ra-language-spanish/commits?author=omarcespedes" title="Code">💻</a></td><td align="center"><a href="https://github.com/sergioedo"><img src="https://avatars2.githubusercontent.com/u/5507031?v=4" width="100px;" alt="Sergio Edo"/><br /><sub><b>Sergio Edo</b></sub></a><br /><a href="https://github.com/BlackBoxVision/ra-language-spanish/commits?author=sergioedo" title="Code">💻</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
