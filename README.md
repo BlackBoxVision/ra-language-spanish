@@ -42,7 +42,7 @@ const messages = {
 
 ## Compatibility with admin-on-rest
 
-If you're looking for an `aor-language-spanish` package compatible with admin-on-rest, review versions of this package minor to v2. 
+If you're looking for an `aor-language-spanish` package compatible with admin-on-rest, install v1 of this package.
 
 ## License
 
