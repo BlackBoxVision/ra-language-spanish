@@ -1,5 +1,4 @@
-# RA Language Spanish 
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/%40blackbox-vision%2Fra-language-spanish.svg)](https://badge.fury.io/js/%40blackbox-vision%2Fra-language-spanish) [![npm downloads](https://img.shields.io/npm/dm/@blackbox-vision/ra-language-spanish)](https://www.npmjs.com/package/@blackbox-vision/ra-language-spanish)
+# RA Language Spanish [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/%40blackbox-vision%2Fra-language-spanish.svg)](https://badge.fury.io/js/%40blackbox-vision%2Fra-language-spanish) [![npm downloads](https://img.shields.io/npm/dm/@blackbox-vision/ra-language-spanish)](https://www.npmjs.com/package/@blackbox-vision/ra-language-spanish)
 
 > Spanish translations for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST/GRAPHQL APIs.
 
