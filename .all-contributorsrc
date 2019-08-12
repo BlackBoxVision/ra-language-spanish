@@ -1,0 +1,32 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "omarcespedes",
+      "name": "Omar Cespedes",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4432720?v=4",
+      "profile": "https://github.com/omarcespedes",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jpinto7",
+      "name": "Juan Pablo Pinto",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9580780?v=4",
+      "profile": "https://juanps.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ra-language-spanish",
+  "projectOwner": "BlackBoxVision",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
