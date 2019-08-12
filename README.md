@@ -1,11 +1,7 @@
-# RA Language Spanish
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+# RA Language Spanish 
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/%40blackbox-vision%2Fra-language-spanish.svg)](https://badge.fury.io/js/%40blackbox-vision%2Fra-language-spanish) [![npm downloads](https://img.shields.io/npm/dm/@blackbox-vision/ra-language-spanish)](https://www.npmjs.com/package/@blackbox-vision/ra-language-spanish)
 
-> Spanish translations for [react-admin](https://github.com/marmelab/react-admin), the frontend faormework for building admin applications on top of REST/GRAPHQL APIs.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/aor-language-spanish.svg)](https://badge.fury.io/js/aor-language-spanish) [![npm downloads](https://img.shields.io/npm/dm/aor-language-spanish.svg)](https://www.npmjs.com/package/aor-language-spanish)
-
-[![NPM](https://nodei.co/npm/aor-language-spanish.png?downloads=true&downloadaornk=true&stars=true)](https://nodei.co/npm/aor-language-spanish/) [![NPM](https://nodei.co/npm-dl/aor-language-spanish.png?months=9&height=3)](https://nodei.co/npm/aor-language-spanish/) 
+> Spanish translations for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST/GRAPHQL APIs.
 
 ## Installation
 
