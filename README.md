@@ -11,19 +11,19 @@
 #### NPM
 
 ```sh
-npm install --save aor-language-spanish
+npm install --save @blackbox-vision/ra-language-spanish
 ```
 
 #### YARN
 
 ```sh
-yarn add aor-language-spanish
+yarn add @blackbox-vision/ra-language-spanish
 ```
 
 ## Usage
 
 ```js
-import spanishMessages from 'aor-language-spanish';
+import spanishMessages from '@blackbox-vision/ra-language-spanish';
 import myMessages from '../somepath';
 
 //Case you have only those messsages
