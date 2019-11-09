@@ -106,7 +106,7 @@ module.exports = {
       dashboard: "Tablero",
       edit: "%{name} #%{id}",
       error: "Algo salió mal",
-      list: "%{name} Lista",
+      list: "Lista de %{name}",
       loading: "Cargando",
       not_found: "No encontrado",
       show: "%{name} #%{id}"
