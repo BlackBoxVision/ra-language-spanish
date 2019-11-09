@@ -25,19 +25,17 @@ module.exports = {
       sort: "Ordenar",
       undo: "Deshacer"
     },
-    boolean: {
-      true: "Sí",
-      false: "No"
+    auth: {
+      logout: "Cerrar Sesión",
+      password: "Contraseña",
+      sign_in: "Acceder",
+      sign_in_error: "La autenticación falló, por favor, vuelva a intentarlo",
+      user_menu: "Perfil",
+      username: "Usuario"
     },
-    page: {
-      create: "Crear %{name}",
-      dashboard: "Tablero",
-      edit: "%{name} #%{id}",
-      error: "Algo salió mal",
-      list: "%{name} Lista",
-      loading: "Cargando",
-      not_found: "No encontrado",
-      show: "%{name} #%{id}"
+    boolean: {
+      false: "No",
+      true: "Sí"
     },
     input: {
       file: {
@@ -91,14 +89,6 @@ module.exports = {
       page_rows_per_page: "Filas por página:",
       prev: "Anterior"
     },
-    auth: {
-      logout: "Cerrar Sesión",
-      password: "Contraseña",
-      sign_in: "Acceder",
-      sign_in_error: "La autenticación falló, por favor, vuelva a intentarlo",
-      user_menu: "Perfil",
-      username: "Usuario"
-    },
     notification: {
       bad_item: "Elemento incorrecto",
       canceled: "Acción cancelada",
@@ -110,6 +100,16 @@ module.exports = {
       item_doesnt_exist: "El elemento no existe",
       logged_out: "Su sesión ha finalizado, vuelva a conectarse.",
       updated: "Elemento actualizado |||| %{smart_count} elementos actualizados"
+    },
+    page: {
+      create: "Crear %{name}",
+      dashboard: "Tablero",
+      edit: "%{name} #%{id}",
+      error: "Algo salió mal",
+      list: "%{name} Lista",
+      loading: "Cargando",
+      not_found: "No encontrado",
+      show: "%{name} #%{id}"
     },
     validation: {
       email: "Debe ser un correo electrónico válido",
