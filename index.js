@@ -4,7 +4,7 @@ module.exports = {
       add: "Añadir",
       add_filter: "Añadir filtro",
       back: "Ir atrás",
-      bulk_actions: "%{smart_count} seleccionados",
+      bulk_actions: "1 item seleccionado |||| %{smart_count} items selecccionados",
       cancel: "Cancelar",
       clear_input_value: "Limpiar valor",
       clone: "Clonar",
@@ -26,6 +26,7 @@ module.exports = {
       undo: "Deshacer"
     },
     auth: {
+      auth_check_error: "Por favor inicie sesión para continuar",
       logout: "Cerrar Sesión",
       password: "Contraseña",
       sign_in: "Acceder",
@@ -61,9 +62,9 @@ module.exports = {
       about: "Acerca de",
       are_you_sure: "¿Está seguro?",
       bulk_delete_content:
-        "¿Seguro que quiere eliminar este %{name}? |||| ¿Seguro que quiere eliminar estos %{smart_count} artículos?",
+        "¿Seguro que quiere eliminar este %{name}? |||| ¿Seguro que quiere eliminar estos %{smart_count} items?",
       bulk_delete_title:
-        "Eliminar %{name} |||| Eliminar %{smart_count} %{name} articulos",
+        "Eliminar %{name} |||| Eliminar %{smart_count} %{name} items",
       delete_content: "¿Seguro que quiere eliminar este artículo?",
       delete_title: "Eliminar %{name} #%{id}",
       details: "Detalles",
