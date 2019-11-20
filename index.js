@@ -65,7 +65,7 @@ module.exports = {
         "¿Seguro que quiere eliminar este %{name}? |||| ¿Seguro que quiere eliminar estos %{smart_count} items?",
       bulk_delete_title:
         "Eliminar %{name} |||| Eliminar %{smart_count} %{name} items",
-      delete_content: "¿Seguro que quiere eliminar este artículo?",
+      delete_content: "¿Seguro que quiere eliminar este item?",
       delete_title: "Eliminar %{name} #%{id}",
       details: "Detalles",
       error:
