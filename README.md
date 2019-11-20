@@ -22,16 +22,16 @@ yarn add @blackbox-vision/ra-language-spanish
 import spanishMessages from '@blackbox-vision/ra-language-spanish';
 import myMessages from '../somepath';
 
-//Case you have only those messsages
+// Case you have only those messsages
 const messages = {
     'es': spanishMessages,
 };
 
-//if you have more taornslations 
+// If you have more translations
 const messages = {
     'es': {
 	...spanishMessages,
-	myMessages
+    myMessages
     }
 }
 
