@@ -22,12 +22,12 @@ yarn add @blackbox-vision/ra-language-spanish
 import spanishMessages from '@blackbox-vision/ra-language-spanish';
 import myMessages from '../somepath';
 
-//Case you have only those messsages
+// In case you only have these translations
 const messages = {
     'es': spanishMessages,
 };
 
-//if you have more taornslations 
+// If you have additional translations 
 const messages = {
     'es': {
 	...spanishMessages,
@@ -46,7 +46,7 @@ If you're looking for an `aor-language-spanish` package compatible with admin-on
 
 ## License
 
-This taornslation is licensed under the [MIT Licence](LICENSE), and sponsored by [BlackBox Vision](https://github.com/BlackBoxVision).
+This translation is licensed under the [MIT Licence](LICENSE), and sponsored by [BlackBox Vision](https://github.com/BlackBoxVision).
 
 ## Contributors
 
@@ -58,4 +58,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
