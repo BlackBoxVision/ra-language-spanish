@@ -15,7 +15,7 @@ module.exports = {
             remove: 'Borrar',
             add_filter: 'Añadir filtro',
             remove_filter: 'Borrar filtro',
-            back: 'Ir atrás',
+            back: 'Volver',
             bulk_actions: '%{smart_count} seleccionados',
         },
         boolean: {
@@ -48,7 +48,7 @@ module.exports = {
                 many_missing:
                     'Al menos una de las referencias asociadas parece no estar disponible.',
                 single_missing:
-                    'La referencia asociada no parece estar disponible.',
+                    'La referencia asociada parece no estar disponible.',
             },
         },
         message: {
@@ -58,12 +58,12 @@ module.exports = {
             about: 'Acerca de',
             not_found:
                 'O bien escribió una URL incorrecta o siguió un enlace incorrecto.',
-            loading: 'La página se está cargando, espere un momento por favor',
+            loading: 'La página está cargando, espere un momento por favor',
             invalid_form: 'El formulario no es válido. Por favor verifique si hay errores',
             delete_title: 'Eliminar %{name} #%{id}',
             delete_content: '¿Seguro que quiere eliminar este artículo?',
             bulk_delete_title:
-                'Eliminar %{name} |||| Eliminar %{smart_count} %{name} articulos',
+                'Eliminar %{name} |||| Eliminar %{smart_count} %{name} artículos',
             bulk_delete_content:
                 '¿Seguro que quiere eliminar este %{name}? |||| ¿Seguro que quiere eliminar estos %{smart_count} artículos?',
         },
