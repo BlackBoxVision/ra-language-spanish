@@ -107,7 +107,7 @@ module.exports = {
       logged_out: "Su sesión ha finalizado, vuelva a conectarse.",
       updated: "Elemento actualizado |||| %{smart_count} elementos actualizados",
       i18n_error:
-        "No se pudo cargar las traducciones para el idioma especificado",
+        "No se pudieron cargar las traducciones para el idioma especificado",
     },
     page: {
       create: "Crear %{name}",
