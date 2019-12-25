@@ -35,8 +35,9 @@ module.exports = {
       username: "Usuario"
     },
     boolean: {
+      true: "Sí",
       false: "No",
-      true: "Sí"
+      null: "",
     },
     input: {
       file: {
@@ -56,6 +57,10 @@ module.exports = {
         many_missing:
           "Al menos una de las referencias asociadas parece no estar disponible.",
         single_missing: "La referencia asociada no parece estar disponible."
+      },
+      password: {
+        toggle_visible: 'Ocultar contraseña',
+        toggle_hidden: 'Mostrar contraseña',
       }
     },
     message: {
@@ -100,7 +105,9 @@ module.exports = {
       http_error: "Error de comunicación con el servidor",
       item_doesnt_exist: "El elemento no existe",
       logged_out: "Su sesión ha finalizado, vuelva a conectarse.",
-      updated: "Elemento actualizado |||| %{smart_count} elementos actualizados"
+      updated: "Elemento actualizado |||| %{smart_count} elementos actualizados",
+      i18n_error:
+        "No se pudieron cargar las traducciones para el idioma especificado",
     },
     page: {
       create: "Crear %{name}",
