@@ -22,16 +22,16 @@ yarn add @blackbox-vision/ra-language-spanish
 import spanishMessages from '@blackbox-vision/ra-language-spanish';
 import myMessages from '../somepath';
 
-// In case you only have these translations
+// Case you have only those messsages
 const messages = {
     'es': spanishMessages,
 };
 
-// If you have additional translations 
+// If you have more translations
 const messages = {
     'es': {
 	...spanishMessages,
-	myMessages
+    myMessages
     }
 }
 
@@ -58,4 +58,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

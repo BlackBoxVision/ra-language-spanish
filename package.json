@@ -1,6 +1,6 @@
 {
   "name": "@blackbox-vision/ra-language-spanish",
-  "version": "1.0.1",
+  "version": "3.0.0",
   "description": "Spanish translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
   "main": "index.js",
   "scripts": {
