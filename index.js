@@ -113,11 +113,13 @@ module.exports = {
       create: "Crear %{name}",
       dashboard: "Tablero",
       edit: "%{name} #%{id}",
+      empty: 'Sin %{name} todavía.',
       error: "Algo salió mal",
+      invite: 'Quiere agregar una?',
       list: "Lista de %{name}",
       loading: "Cargando",
       not_found: "No encontrado",
-      show: "%{name} #%{id}"
+      show: "%{name} #%{id}"      
     },
     validation: {
       email: "Debe ser un correo electrónico válido",
