@@ -119,7 +119,7 @@ module.exports = {
       list: "Lista de %{name}",
       loading: "Cargando",
       not_found: "No encontrado",
-      show: "%{name} #%{id}"      
+      show: "%{name} #%{id}"
     },
     validation: {
       email: "Debe ser un correo electrónico válido",
