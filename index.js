@@ -9,6 +9,7 @@ module.exports = {
       clear_input_value: "Limpiar valor",
       clone: "Clonar",
       close: "Cerrar",
+      close_menu: "Cerrar menú",
       confirm: "Confirmar",
       create: "Crear",
       delete: "Eliminar",
@@ -16,6 +17,7 @@ module.exports = {
       expand: "Expandir",
       export: "Exportar",
       list: "Listar",
+      open_menu: "Abrir menú",
       refresh: "Refrescar",
       remove: "Borrar",
       remove_filter: "Borrar filtro",
@@ -81,7 +83,9 @@ module.exports = {
       no: "No",
       not_found:
         "O bien escribió una URL incorrecta o siguió un enlace incorrecto.",
-      yes: "Sí"
+      yes: "Sí",
+      unsaved_changes:
+        "Algunos de sus cambios no se guardaron. ¿Está seguro que quiere ignorarlos?",
     },
     navigation: {
       next: "Siguiente",
@@ -113,9 +117,9 @@ module.exports = {
       create: "Crear %{name}",
       dashboard: "Tablero",
       edit: "%{name} #%{id}",
-      empty: 'Sin %{name} todavía.',
+      empty: "Sin %{name} todavía.",
       error: "Algo salió mal",
-      invite: 'Quiere agregar una?',
+      invite: "¿Quiere agregar una?",
       list: "Lista de %{name}",
       loading: "Cargando",
       not_found: "No encontrado",
