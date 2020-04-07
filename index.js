@@ -81,7 +81,9 @@ module.exports = {
       no: "No",
       not_found:
         "O bien escribió una URL incorrecta o siguió un enlace incorrecto.",
-      yes: "Sí"
+      yes: "Sí",
+      unsaved_changes:
+        "Algunos de sus cambios no se guardaron. ¿Está seguro que quiere ignorarlos?",
     },
     navigation: {
       next: "Siguiente",
