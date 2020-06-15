@@ -25,7 +25,8 @@ module.exports = {
       search: "Buscar",
       show: "Mostrar",
       sort: "Ordenar",
-      undo: "Deshacer"
+      undo: "Deshacer",
+      unselect: "Deseleccionar"
     },
     auth: {
       auth_check_error: "Por favor inicie sesión para continuar",
