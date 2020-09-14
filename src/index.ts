@@ -1,10 +1,13 @@
-module.exports = {
+import { TranslationMessages } from "ra-core";
+
+const spanishMessages: TranslationMessages = {
   ra: {
     action: {
       add: "Añadir",
       add_filter: "Añadir filtro",
       back: "Ir atrás",
-      bulk_actions: "1 item seleccionado |||| %{smart_count} items selecccionados",
+      bulk_actions:
+        "1 item seleccionado |||| %{smart_count} items seleccionados",
       cancel: "Cancelar",
       clear_input_value: "Limpiar valor",
       clone: "Clonar",
@@ -40,7 +43,7 @@ module.exports = {
     boolean: {
       true: "Sí",
       false: "No",
-      null: "",
+      null: ""
     },
     input: {
       file: {
@@ -62,8 +65,8 @@ module.exports = {
         single_missing: "La referencia asociada no parece estar disponible."
       },
       password: {
-        toggle_visible: 'Ocultar contraseña',
-        toggle_hidden: 'Mostrar contraseña',
+        toggle_visible: "Ocultar contraseña",
+        toggle_hidden: "Mostrar contraseña"
       }
     },
     message: {
@@ -86,7 +89,7 @@ module.exports = {
         "O bien escribió una URL incorrecta o siguió un enlace incorrecto.",
       yes: "Sí",
       unsaved_changes:
-        "Algunos de sus cambios no se guardaron. ¿Está seguro que quiere ignorarlos?",
+        "Algunos de sus cambios no se guardaron. ¿Está seguro que quiere ignorarlos?"
     },
     navigation: {
       next: "Siguiente",
@@ -96,9 +99,14 @@ module.exports = {
       page_out_from_begin: "No puede ir antes de la página 1",
       page_out_from_end: "No puede ir después de la última página",
       page_out_of_boundaries: "Número de página %{page} fuera de los límites",
-      page_range_info: "%{offsetBegin}-%{offsetEnd} de %{total}",
+      page_range_info: "%{offsetBegin} - %{offsetEnd} de %{total}",
       page_rows_per_page: "Filas por página:",
       prev: "Anterior"
+    },
+    sort: {
+      sort_by: "Ordenar por %{field} %{order}",
+      ASC: "ascendente",
+      DESC: "descendente",
     },
     notification: {
       bad_item: "Elemento incorrecto",
@@ -110,9 +118,10 @@ module.exports = {
       http_error: "Error de comunicación con el servidor",
       item_doesnt_exist: "El elemento no existe",
       logged_out: "Su sesión ha finalizado, vuelva a conectarse.",
-      updated: "Elemento actualizado |||| %{smart_count} elementos actualizados",
+      updated:
+        "Elemento actualizado |||| %{smart_count} elementos actualizados",
       i18n_error:
-        "No se pudieron cargar las traducciones para el idioma especificado",
+        "No se pudieron cargar las traducciones para el idioma especificado"
     },
     page: {
       create: "Crear %{name}",
@@ -139,3 +148,5 @@ module.exports = {
     }
   }
 };
+
+export default spanishMessages;

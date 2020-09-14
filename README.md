@@ -21,11 +21,13 @@ yarn add @blackbox-vision/ra-language-spanish
 ```js
 import spanishMessages from '@blackbox-vision/ra-language-spanish';
 import myMessages from '../somepath';
+import polyglotI18nProvider from 'ra-i18n-polyglot';
 
 // Case you have only those messsages
 const messages = {
     'es': spanishMessages,
 };
+const i18nProvider = polyglotI18nProvider(locale => messages[locale]);
 
 // If you have more translations
 const messages = {
@@ -35,7 +37,7 @@ const messages = {
     }
 }
 
-<Admin locale="es" messages={messages}>
+<Admin locale="es" i18nProvider={i18nProvider}>
   ...
 </Admin>
 ```

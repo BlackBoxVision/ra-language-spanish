@@ -1,19 +1,32 @@
 {
   "name": "@blackbox-vision/ra-language-spanish",
-  "version": "3.1.0",
-  "description": "Spanish translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "3.8.4",
+  "description": "Spanish messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blackboxvision/aor-language-spanish.git"
   },
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "types": "esm/index.d.ts",
+  "scripts": {
+    "build": "yarn run build-cjs && yarn run build-esm",
+    "build-cjs": "rimraf ./lib && tsc",
+    "build-esm": "rimraf ./esm && tsc --outDir esm --module es2015",
+    "watch": "tsc --outDir esm --module es2015 --watch"
+  },
+  "dependencies": {
+    "ra-core": "^3.8.4"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "typescript": "^3.8.3"
+  },
   "keywords": [
     "react",
+    "react-admin",
     "admin-on-rest",
-    "taornslation"
+    "translation"
   ],
   "author": "BlackBox Vision",
   "license": "MIT",
