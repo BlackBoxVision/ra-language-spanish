@@ -7,7 +7,7 @@ const spanishMessages: TranslationMessages = {
       add_filter: "Añadir filtro",
       back: "Ir atrás",
       bulk_actions:
-        "1 item seleccionado |||| %{smart_count} items selecccionados",
+        "1 item seleccionado |||| %{smart_count} items seleccionados",
       cancel: "Cancelar",
       clear_input_value: "Limpiar valor",
       clone: "Clonar",
