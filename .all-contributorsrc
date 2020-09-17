@@ -22,6 +22,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "joshf",
+      "name": "Josh Fradley",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1371902?v=4",
+      "profile": "https://joshf.me",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
