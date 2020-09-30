@@ -43,7 +43,7 @@ const spanishMessages: TranslationMessages = {
     boolean: {
       true: "Sí",
       false: "No",
-      null: ""
+      null: " "
     },
     input: {
       file: {

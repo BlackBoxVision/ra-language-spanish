@@ -42,7 +42,7 @@ var spanishMessages = {
         boolean: {
             true: "Sí",
             false: "No",
-            null: ""
+            null: " "
         },
         input: {
             file: {
