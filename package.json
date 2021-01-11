@@ -1,6 +1,6 @@
 {
   "name": "@blackbox-vision/ra-language-spanish",
-  "version": "3.8.6",
+  "version": "3.11.2",
   "description": "Spanish messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "repository": {
     "type": "git",
