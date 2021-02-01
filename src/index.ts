@@ -43,7 +43,7 @@ const spanishMessages: TranslationMessages = {
     boolean: {
       true: "Sí",
       false: "No",
-      null: " "
+      null: " ",
     },
     input: {
       file: {
@@ -101,7 +101,8 @@ const spanishMessages: TranslationMessages = {
       page_out_of_boundaries: "Número de página %{page} fuera de los límites",
       page_range_info: "%{offsetBegin} - %{offsetEnd} de %{total}",
       page_rows_per_page: "Filas por página:",
-      prev: "Anterior"
+      prev: "Anterior",
+      skip_nav: 'Saltar al contenido',
     },
     sort: {
       sort_by: "Ordenar por %{field} %{order}",
